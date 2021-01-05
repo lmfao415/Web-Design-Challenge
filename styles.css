@@ -3,4 +3,19 @@ body {background-color: lightgrey}
 main {background-color: white;}
 
 
-.header h1 {color:aqua}
+.header {color:aqua;
+background-color: white;}
+
+.summary {background: white;}
+
+.sideviz {background: white;}
+
+.sideviz h2 {text-align: center;}
+.sideviz p {text-align: center;}
+.table-responsive {background-color: white;}
+
+
+
+/* .comparison_box {height: 400px;
+padding: 20px;
+background:aqua} */
