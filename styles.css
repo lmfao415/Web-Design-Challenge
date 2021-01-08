@@ -8,12 +8,13 @@ h4 {color: teal;}
 /* .header {color:aqua;
 background-color: white;} */
 
-.summary {background: white;}
+.summary {background: white;
+padding:20px}
 
 .sideviz {background: white;}
-
 .sideviz h2 {text-align: center;}
 .sideviz p {text-align: center;}
+
 .datasection {background-color: white;
 margin: 20px;
 padding: 20px;}
