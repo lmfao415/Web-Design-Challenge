@@ -4,6 +4,10 @@ This repository contains a basic website dashboard with multiple pages to presen
 
 The pages are functional and can be [accessed HERE](https://lmfao415.github.io/Web-Design-Challenge/).
 
+![site](https://github.com/lmfao415/Web-Design-Challenge/blob/main/Resources/assets/images/site.png?raw=true)
+
+
+
 There are 7 pages total, including:
 
 * A **landing page** containing:
@@ -18,7 +22,9 @@ There are 7 pages total, including:
   * Contains all of the visualizations on the same page so they can be easily compared.
   * Uses a Bootstrap grid for the visualizations.
 * A **"Data" page** that:
-  * Displays a responsive table containing the data used in the visualizations.
+  * Displays a responsive table containing all the data used in the visualizations.
     * The data comes from the [cities.csv](https://github.com/lmfao415/Web-Design-Challenge/blob/main/Resources/cities.csv) file . 
 
 The website also features a functional navigation bar at the top of each page.
+
+![bar](https://github.com/lmfao415/Web-Design-Challenge/blob/main/Resources/assets/images/bar.png?raw=true)
