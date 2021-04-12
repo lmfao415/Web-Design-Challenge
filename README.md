@@ -24,6 +24,8 @@ There are 7 pages total, including:
 * A **"Data" page** that:
   * Displays a responsive table containing all the data used in the visualizations.
     * The data comes from the [cities.csv](https://github.com/lmfao415/Web-Design-Challenge/blob/main/Resources/cities.csv) file . 
+![data](https://github.com/lmfao415/Web-Design-Challenge/blob/main/Resources/assets/data.png?raw=true)
+
 
 The website also features a functional navigation bar at the top of each page.
 
