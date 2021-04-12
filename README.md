@@ -1,6 +1,6 @@
 # Web Design Dashboard
 
-This repository contains a basic website dashboard with multiple pages to present weather data analysis based on weather data taken from cities around the world. Various plots are presented featuring the different weather data.
+This repository contains a basic website dashboard with multiple pages to present weather data analysis based on data taken from cities around the world. Various plots are presented featuring the different weather data.
 
 The pages are functional and can be [accessed HERE](https://lmfao415.github.io/Web-Design-Challenge/).
 
