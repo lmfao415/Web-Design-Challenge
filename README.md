@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Web Design Dashboard
 
 This repository contains a basic website dashboard with multiple pages to present weather data analysis based on weather data taken from cities around the world. Various plots are presented featuring the different weather data.
 
